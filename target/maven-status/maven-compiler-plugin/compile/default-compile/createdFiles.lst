@@ -1,0 +1,4 @@
+com\springmvc\pojo\Admin.class
+com\springmvc\controller\main.class
+com\springmvc\service\AdminService.class
+com\springmvc\dao\AdminMapper.class
